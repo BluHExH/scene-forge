@@ -1,0 +1,20 @@
+---
+name: 21st-ui-review
+description: Review existing UI against the project's design context, accessibility expectations, responsive behavior, interaction quality, and high-confidence production rules. Use for UI audits, design QA, frontend review, accessibility review, consistency checks, or requests to find and safely fix visual defects. Trigger for requests such as "review this UI", "audit this page", "find design issues", "check responsiveness", or "fix obvious UX problems". Use 21st-ui-build when the request is primarily to create new UI.
+---
+
+# 21st UI Review
+
+Review existing UI against the project's design context, accessibility expectations, responsive behavior, interaction quality, and high-confidence production rules.
+
+Use for UI audits, design QA, frontend review, accessibility review, consistency checks, or requests to find and safely fix visual defects.
+
+## When to use
+
+- "review this UI"
+- "audit this page"
+- "find design issues"
+- "check responsiveness"
+- "fix obvious UX problems"
+
+Use 21st-ui-build when the request is primarily to create new UI.
