@@ -1,43 +1,43 @@
 # scene-forge
 
-All custom Grok skills used by BluHExH for personal work.
+All custom Grok skills used by BluHExH.
 
-## Skills included
+**24 skills** under `skills/`.
+
+## Full list
 
 ### 3D
-- `skills/3d-website/` — Interactive 3D websites (React Three Fiber / Three.js) **[FULL]**
-- `skills/3dviz-pro-max/` — Expressive 3D scenes, scientific visualization, spatial puzzles
+- [3d-website](skills/3d-website/SKILL.md) — Interactive 3D websites (R3F / Three.js) **FULL**
+- [3dviz-pro-max](skills/3dviz-pro-max/SKILL.md) — Expressive 3D scenes & scientific visualization
 
 ### 21st.dev
-- `skills/21st-ai/` **[FULL]**
-- `skills/21st-cli-use/` **[FULL]**
-- `skills/21st-design-sync/`
-- `skills/21st-registry/`
-- `skills/21st-ui-build/`
-- `skills/21st-ui-explore/`
-- `skills/21st-ui-review/`
+- [21st-ai](skills/21st-ai/SKILL.md) **FULL**
+- [21st-cli-use](skills/21st-cli-use/SKILL.md) **FULL**
+- [21st-design-sync](skills/21st-design-sync/SKILL.md) **FULL**
+- [21st-registry](skills/21st-registry/SKILL.md)
+- [21st-ui-build](skills/21st-ui-build/SKILL.md)
+- [21st-ui-explore](skills/21st-ui-explore/SKILL.md)
+- [21st-ui-review](skills/21st-ui-review/SKILL.md)
 
-### UI / Frontend / Design
-- `skills/ui-ux-pro-max/`
-- `skills/professional-website-build/`
-- `skills/premium-ui-kit/`
-- `skills/framer-motion/`
-- `skills/modern-frontend-workflow/`
-- `skills/stoneageskills-inspired-ui/`
-- `skills/grok-website-replica/`
+### UI / Design / Frontend
+- [ui-ux-pro-max](skills/ui-ux-pro-max/SKILL.md)
+- [professional-website-build](skills/professional-website-build/SKILL.md)
+- [premium-ui-kit](skills/premium-ui-kit/SKILL.md)
+- [framer-motion](skills/framer-motion/SKILL.md)
+- [modern-frontend-workflow](skills/modern-frontend-workflow/SKILL.md)
+- [stoneageskills-inspired-ui](skills/stoneageskills-inspired-ui/SKILL.md)
+- [grok-website-replica](skills/grok-website-replica/SKILL.md)
 
-### Backend / Architecture / Workflow
-- `skills/backend-api-design/`
-- `skills/fullstack-project-structure/`
-- `skills/git-workflow-code-review/`
-- `skills/clean-code-practices/`
-- `skills/testing-and-debugging/`
-- `skills/web-performance-seo/`
-- `skills/client-work-workflow/`
-- `skills/developer-productivity/`
+### Backend / Process
+- [backend-api-design](skills/backend-api-design/SKILL.md)
+- [fullstack-project-structure](skills/fullstack-project-structure/SKILL.md)
+- [git-workflow-code-review](skills/git-workflow-code-review/SKILL.md)
+- [clean-code-practices](skills/clean-code-practices/SKILL.md) **FULL**
+- [testing-and-debugging](skills/testing-and-debugging/SKILL.md) **FULL**
+- [web-performance-seo](skills/web-performance-seo/SKILL.md) **FULL**
+- [client-work-workflow](skills/client-work-workflow/SKILL.md) **FULL**
+- [developer-productivity](skills/developer-productivity/SKILL.md) **FULL**
 
 ---
 
-**Note:** Core `SKILL.md` files are present for all skills. Some have full detailed content (marked **[FULL]**); others currently contain the skill header + description. Full expanded content can be added on request.
-
-Originally seeded from Grok custom skills for BluHExH.
+Several skills now have complete detailed content. Remaining longer skills (e.g. 3dviz-pro-max, ui-ux-pro-max, framer-motion, 21st-registry) can be expanded to full local versions on request.
